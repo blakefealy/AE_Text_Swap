@@ -1,10 +1,13 @@
 # AE_Text_Swap
-SUMMARY: This script will swap the text values of two selected text layers in the timeline of an After Effects composition
-CREDIT: Blake Fealy
+**SUMMARY:** This script will swap the text values of two selected text layers in the timeline of an After Effects composition
+**CREDIT:** Script created by Blake Fealy [https://github.com/blakefealy]
+
+---
 
 ### Installing and Assigning a Keyboard Shortcut to `Text_Swap.jsx` in Adobe After Effects
-
+---
 #### Installing JSX file
+---
 
 ###### Windows
 
@@ -33,7 +36,7 @@ CREDIT: Blake Fealy
      /Applications/Adobe After Effects <version>/Scripts/ScriptUI Panels
      ```
 ### Assigning Script As Keyboard Shortcut
-
+---
 2. **Restart After Effects**:
    - If After Effects was open during installation, restart it.
 
